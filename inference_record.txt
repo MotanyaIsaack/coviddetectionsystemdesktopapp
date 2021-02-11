@@ -1,0 +1,286 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...14:37:32
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/data/xray-samples/covid19-positive/coronavirus_positive_day7_of_infection.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.99126923. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...14:43:37
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/boo-covid-19/x-ray-images-predict/hakuna_covid.png
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.2630427. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...15:10:33
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/COVID-19 Dataset/X-ray/Non-COVID/0ecb70e1791fced5945dabee20acd252.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.64058805. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...15:10:53
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/boo-covid-19/x-ray-image-dataset/no-findings/Non-COVID-19 (44).jpeg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.9999987. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...15:11:24
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/data/xray-samples/covid19-positive/coronavirus_positive_day7_of_infection.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.99126923. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...15:11:38
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/xray_dataset/train/NORMAL/IM-0115-0001.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.0072130994. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...17:56:20
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/data/xray-samples/covid19-positive/coronavirus_positive_day7_of_infection.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.99126923. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...18:3:33
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/data/xray-samples/covid19-positive/coronavirus_positive_day7_of_infection.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.99126923. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...21:10:28
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/COVID-19 Dataset/X-ray/COVID/000001-3.png
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.99999976. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...21:26:29
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/COVID-19 Dataset/X-ray/COVID/000001-2.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.9999994. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...21:29:8
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/CovidAID/chest-xray-pneumonia/test/PNEUMONIA/person1_virus_11.jpeg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 1.0. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 5, 2021...21:34:25
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/COVID-19/x-ray-image-dataset/Covid-19/1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-001-fig2a.png
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.99998164. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 6, 2021...3:27:6
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/data/xray-samples/covid19-positive/coronavirus_positive_day7_of_infection.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.9995511. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 6, 2021...3:41:49
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/covid-cxr/raw_data/rsna/00a85be6-6eb0-421d-8acf-ff2dc0007e8a.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.99605995. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 6, 2021...3:48:6
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/data/xray-samples/covid19-positive/coronavirus_positive_day7_of_infection.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.99126923. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 6, 2021...4:4:8
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/data/xray-samples/covid19-positive/coronavirus_positive_day7_of_infection.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.99126923. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 6, 2021...4:36:57
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/COVID-19/x-ray-image-dataset/Covid-19/1.CXRCTThoraximagesofCOVID-19fromSingapore.pdf-002-fig3b.png
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.9952081. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 6, 2021...5:40:5
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/boo-covid-19/other-x-ray-images/no-findings/0ecb70e1791fced5945dabee20acd252.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.64058805. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 6, 2021...5:40:33
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/xray_dataset_covid19/train/NORMAL/IM-0001-0001.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.018167194. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 6, 2021...5:41:2
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/CovidAID/chest-xray-pneumonia/val/NORMAL/NORMAL2-IM-1440-0001.jpeg
+
+RESULT : 
+Normal lungs detected
+Raw Neural Network Output : 0.03372764. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 9, 2021...10:25:13
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/boo-covid-19/x-ray-image-dataset/covid/000001-2.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.6107758. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DATE/TIME : 2 11, 2021...3:30:47
+
+IMAGE : C:/xampp/htdocs/School/year-four/final-year-project/smart_detection_system/coviddetectionsystemdesktopapp/data/xray-samples/covid19-positive/coronavirus_positive_day7_of_infection.jpg
+
+RESULT : 
+Covid19 detected
+Raw Neural Network Output : 0.99126923. A value closer to 1 signifies illness, while a value closer to 0 signifies normalness.
+
+
+
+
+
